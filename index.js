@@ -43,5 +43,8 @@ function findTheCheese(foods) {
 }
 
 function wordsWithB(arr) {
-  
+  for (var i = 0)
+  if (arr[0][0] == "b") {
+    return arr[0]
+  }
 }
