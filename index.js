@@ -42,6 +42,6 @@ function findTheCheese(foods) {
   }
 }
 
-function wordsWithV(arr) {
+function wordsWithB(arr) {
   
 }
