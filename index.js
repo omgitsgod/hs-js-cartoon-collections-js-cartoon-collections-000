@@ -35,7 +35,13 @@ function findTheCheese(foods) {
     return 'gouda';
   } else if (foods.some(x => x == 'camebert')) {
     return 'camebert';
+  } else if (foods.some(x => x == 'american')) {
+    return 'american'
   } else {
     return 'no cheese!';
   }
+}
+
+function wordsWithV(arr) {
+  
 }
